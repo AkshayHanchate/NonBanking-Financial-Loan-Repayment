@@ -94,10 +94,7 @@ The **CI/CD pipeline automates model deployment** when new code is pushed to Git
 | **Azure Container Registry (ACR)** | Stores containerized model images |
 | **Azure Kubernetes Service (AKS)** | Deploys and scales the application |
 | **Azure Monitor** | Logs API requests, errors, and performance metrics |
-| **GitHub Actions** | Automates CI/CD workflow |
-![](assets/resource-groups.png)
-![](assets/aks-monitor.png)
-![](assets/amls-jobs.png)
+
 
 ## 📌 Next Steps & Future Enhancements
 - Implement **Model Retraining Pipeline** with **AutoML** in Azure ML.
